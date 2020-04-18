@@ -110,18 +110,28 @@
   justify-content: left;
 }
 
+.star-ratings{
+  margin-left:50px;
+}
+
+.price-ratings{
+  margin-left: 50px;
+}
+
 .fa-star{
+  
   color: yellow;
   border-style: #dfdfdf;
 }
 
 .fa-dollar-sign{
+  
   color: green;
 }
 
 
 .featured-hotels-2{
-  margin-top: 1em;
+  margin-top: 3em;
   width: 90%;
   height:15em;
   background-color: #dfdfdf;    
